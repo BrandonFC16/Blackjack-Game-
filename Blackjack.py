@@ -1,10 +1,6 @@
-"""
-Brandon Fook Chong 1830307
-420-LCU Computer Programming, Section 3
-Monday, May 25th
-S.Hilal, instructor
-Final Project
-"""
+
+#Author: Brandon Fook Chong 
+
 import random
 import time
 
